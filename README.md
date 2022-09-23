@@ -1,1 +1,1 @@
-# sinema
+# sinema koltuk seçim uygulaması
